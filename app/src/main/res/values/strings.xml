@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Cannon Game AM</string>
+    <string name="play">Play</string>
+    <string name="high_scores">Melhor Pontuação</string>
+    <string name="how_to_play">Como Jogar</string>
+    <string name="sound_on">Som: LIG</string>
+    <string name="sound_off">Som: DESL</string>
+    <string name="sound_enabled_toast">Som Ativado</string>
+    <string name="sound_disabled_toast">Som Desativado</string>
+    <string name="exit">Sair</string>
+    <string name="menu">Menu</string>
+
+    <string name="results_format">Tiros disparados: %1$d\nTempo total: %2$.1f s</string>
+    <string name="reset_game">Jogar Novamente</string>
+    <string name="win">Você Ganhou!</string>
+    <string name="lose">Você Perdeu!</string>
+    <string name="time_remaining_format">Tempo restante: %.1f segundos</string>
+    <string name="score_format">Pontuação: %d pts</string>
+    <string name="current_score_format">Pontuação Atual: %d pts</string>
+    <string name="new_record_message">🎉 NOVO RECORDE!</string>
+    <string name="back_to_menu">Voltar ao Menu</string>
+    <string name="high_score_title">MELHOR PONTUAÇÃO</string>
+    <string name="high_score_format">Melhor Pontuação: %d pts</string>
+    <string name="menu_high_score_format">Melhor Pontuação: %d pts</string>
+    <string name="how_to_play_title">COMO JOGAR</string>
+
+    <string name="rule_objective_title">Objetivo:</string>
+    <string name="rule_objective_desc">Destrua todos os alvos o mais rápido possível antes que o tempo acabe!</string>
+
+    <string name="rule_shoot_title">Disparar:</string>
+    <string name="rule_shoot_desc">Toque em qualquer lugar da tela para mirar o canhão e atirar a Pokébola.</string>
+
+    <string name="rule_score_title">Pontuação:</string>
+    <string name="rule_score_desc">Você ganha 500 pontos por cada alvo destruído e mais um bônus de 100 pontos por segundo que sobrar. Mas cuidado: cada tiro extra tira 10 pontos!</string>
+
+    <string name="rule_obstacles_title">Obstáculos:</string>
+    <string name="rule_obstacles_desc">Evite a barreira no centro: ela faz a bola voltar e ainda tira 2 segundos do seu tempo.</string>
+</resources>

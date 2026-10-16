@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="palette_blue_bright">#D7353F</color>
+    <color name="palette_blue_dark">#29292D</color>
+    <color name="palette_pink">#D7353F</color>
+    <color name="palette_cream">#F5F4F0</color>
+    <color name="palette_tan">#66666B</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

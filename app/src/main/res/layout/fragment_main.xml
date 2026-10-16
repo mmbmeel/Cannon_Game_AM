@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- A vista do jogo -->
+    <com.uemg.cannon_game_am.CannonView
+        android:id="@+id/cannonView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <Button
+        android:id="@+id/btnBackToMenu"
+        android:layout_width="116dp"
+        android:layout_height="36dp"
+        android:layout_gravity="top|start"
+        android:layout_margin="8dp"
+        android:background="@drawable/bg_action_button"
+        android:clickable="true"
+        android:focusable="true"
+        android:elevation="10dp"
+        android:paddingStart="6dp"
+        android:paddingEnd="6dp"
+        android:stateListAnimator="@null"
+        android:translationZ="10dp"
+        android:text="@string/menu"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+</FrameLayout>
